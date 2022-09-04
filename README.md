@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sou Thalisson Sousa, tenho 25 anos e moro em Matões-MA.
+Sou Thalisson Sousa, tenho 26 anos e moro em Matões-MA.
 
 ### 💬 Curiosidades
 - graduado em Análise e Desenvolvimento de Sistemas;
