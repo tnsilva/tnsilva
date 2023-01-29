@@ -5,10 +5,11 @@ Sou Thalisson Sousa, tenho 26 anos e moro em Matões-MA.
 ### 💬 Curiosidades
 - graduado em Análise e Desenvolvimento de Sistemas;
 - pós-graduando em Desenvolvimento Web;
-- cursando MBA em Big Data e Inteligência Competitiva. 
-- Me encontrei na programação durante o curso técnico em informática (2016-2018) e desde então, esse é o meu mundo. 
-- Tecnologia, educação, design e negócios são temas que me interessam. 
-- Já vi um poco de várias coisas, porém meu foco Atualmente é ReactJs e todo seu ecossistema. 
+- Me encontrei na programação durante o curso técnico em informática (2016-2018) e desde então, esse é o meu mundo; 
+- Tecnologia, educação, design e negócios são temas que me interessam; 
+- Já vi um poco de várias coisas, porém meu foco Atualmente é Javascript e todo seu ecossistema;
+- Estudo React, Angular, Nodejs e Figma;
+- Foco em Front-end.
 
 ## 📋 Skills
 
