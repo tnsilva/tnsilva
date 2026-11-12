@@ -25,5 +25,5 @@ Sou Thalisson Sousa, tenho 26 anos e moro em Matões-MA.
 [![Instagram Badge](https://img.shields.io/badge/@thalisson.dev-2D425E?style=flat&labelColor=2D425E&logo=instagram&logoColor=white&link=https://instagram.com/pedroGermano)](https://instagram.com/thalisson.dev)
 [![Linkedin Badge](https://img.shields.io/badge/Thalisson-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalissonsousa/)](https://www.linkedin.com/in/thalissonsousa/)
 
-![Thalisson_Sopusa github stats](https://github-readme-stats.vercel.app/api?username=tnsilva&show_icons=true&theme=dark)
+#![Thalisson_Sopusa github stats](https://github-readme-stats.vercel.app/api?username=tnsilva&show_icons=true&theme=dark)
 
